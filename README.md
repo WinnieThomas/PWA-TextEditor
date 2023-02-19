@@ -48,9 +48,9 @@ THEN I should have proper build scripts for a webpack application
 
 ![](https://github.com/WinnieThomas/PWA-TextEditor/blob/main/Assets/PWA3.png?raw=true)
 
-![](https://github.com/WinnieThomas/PWA-TextEditor/blob/main/Assets/PWA4.png?raw=true
+![](https://github.com/WinnieThomas/PWA-TextEditor/blob/main/Assets/PWA4.png?raw=true)
 
-![image](https://github.com/WinnieThomas/PWA-TextEditor/blob/main/Assets/PWA4.png?raw=true
+![image](https://github.com/WinnieThomas/PWA-TextEditor/blob/main/Assets/PWA4.png?raw=true)
 
 
 
