@@ -42,6 +42,18 @@ THEN I should have proper build scripts for a webpack application
 
 ## screenshots of the application functionality
 
+![](https://github.com/WinnieThomas/PWA-TextEditor/blob/main/Assets/PWA1.png?raw=true)
+
+![](https://github.com/WinnieThomas/PWA-TextEditor/blob/main/Assets/PWA2.png?raw=true)
+
+![](https://github.com/WinnieThomas/PWA-TextEditor/blob/main/Assets/PWA3.png?raw=true)
+
+![](https://github.com/WinnieThomas/PWA-TextEditor/blob/main/Assets/PWA4.png?raw=true
+
+![image](https://github.com/WinnieThomas/PWA-TextEditor/blob/main/Assets/PWA4.png?raw=true
+
+
+
 
 ## Deplyed link
 https://pure-lake-47302.herokuapp.com/
